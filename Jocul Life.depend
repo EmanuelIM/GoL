@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1545812615 source:c:\users\iacob emanuel\documents\informatica\xii pbinfo+moldo\jocul life\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<cstdio>
+
